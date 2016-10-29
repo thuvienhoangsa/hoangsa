@@ -18,6 +18,8 @@ me credit when you use it.
 
 body {font-family: inherit, sans-serif;}
 
+body {background-image: url("vietnam_maps.jpg");}
+
 
 /* --------------------- top bar for quick jump to the years "Jumpstrip"----------------- */
 #jumpstrip li {
